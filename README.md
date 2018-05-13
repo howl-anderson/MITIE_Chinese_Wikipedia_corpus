@@ -1,32 +1,34 @@
-# Project Title
+# 中文维基百科 MITIE 语料库
 
-This project provides scripts to make a [MITIE](https://github.com/mit-nlp/MITIE) corpus for Chinese. Pretrained models are also provided. 
+这个项目旨在为训练 [MITIE](https://github.com/mit-nlp/MITIE) 中文语料库提供工具和指南. 通常情况下，训练这个模型，需要一台高配置、高网速的服务器大约运行三天，才能训练完毕，为了节约时间，本项目也将提供预训练好的模型。
 
-## Getting Started
-### Training from scratch
+## 如何使用
+### 从零开始训练
 
 
-### Downloading pre-trained models
 
-See [releases](https://github.com/howl-anderson/MITIE_Chinese_Wikipedia_corpus/releases)
+### 下载预训练好的模型
 
-## Contributing
+可下载的模型列表见 [releases](https://github.com/howl-anderson/MITIE_Chinese_Wikipedia_corpus/releases)
 
-Please read [CONTRIBUTING.md](https://github.com/howl-anderson/MITIE_Chinese_Wikipedia_corpus/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+## 如何贡献代码
 
-## Versioning
+请阅读 [CONTRIBUTING.md](https://github.com/howl-anderson/MITIE_Chinese_Wikipedia_corpus/CONTRIBUTING.md) 并向我们发送 pull requests.
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## 版本控制方案
 
-## Authors
+使用 [SemVer](http://semver.org/) 的标准方案. 访问 [tags on this repository](https://github.com/your/project/tags) 可了解所有版本信息.
+
+## 作者
 
 * **Xiaoquan Kong** - *Initial work* - [howl-anderson](https://github.com/howl-anderson)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+全体贡献者信息在 [contributors](https://github.com/your/project/contributors) 处可见。
 
-## License
+## 授权协议
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+本项目采用 MIT License - 详情请见 [LICENSE.md](LICENSE.md)
 
-## Acknowledgments
+## 致谢
+暂无
 

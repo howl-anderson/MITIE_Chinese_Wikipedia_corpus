@@ -5,11 +5,13 @@
 ## 从零开始训练
 ### 构建维基百科语料库
 
-见项目 [chinese-wikipedia-corpus-creator](https://github.com/howl-anderson/chinese-wikipedia-corpus-creator)
+见项目 [chinese-wikipedia-corpus-creator](https://github.com/howl-anderson/chinese-wikipedia-corpus-creator)，维基百科的语料库的最终数据目录为 `third-party/chinese-wikipedia-corpus-creator/token_cleaned_plain_files`。可以使用两种方式获得数据：直接下载已经预处理好的语料库 或者 从零开始处理语料库
 
-将源代码下载或者克隆至 `third-party/chinese-wikipedia-corpus-creator`，按照该项目文档的说明，运行相关代码，产生中文维基百科语料库。
+#### 直接下载已经预处理好的语料库
+直接下载 `chinese-wikipedia-corpus-creator` 已经处理好的文件，下载地址在 [Release of chinese-wikipedia-corpus-creator](https://github.com/howl-anderson/chinese-wikipedia-corpus-creator/releases)，下载后放置到 `third-party/chinese-wikipedia-corpus-creator/token_cleaned_plain_files`
 
-维基百科的语料库的最终数据目录为 `third-party/chinese-wikipedia-corpus-creator/token_cleaned_plain_files`
+#### 从零开始处理语料库
+将 `chinese-wikipedia-corpus-creator` 源代码下载或者克隆至 `third-party/chinese-wikipedia-corpus-creator`，按照该项目文档的说明，运行相关代码，产生中文维基百科语料库。确保最后的输出文件位于 `third-party/chinese-wikipedia-corpus-creator/token_cleaned_plain_files`
 
 ### 构建 `MITIE` 工具
 

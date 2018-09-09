@@ -42,7 +42,7 @@ $ ./third-party/MITIE/tools/wordrep/build/wordrep --count-words 800000 --word-ve
 
 ## 下载预训练好的模型
 
-可下载的模型列表见 [releases](https://github.com/howl-anderson/MITIE_Chinese_Wikipedia_corpus/releases)
+可下载的模型列表见 [releases](https://github.com/howl-anderson/MITIE_Chinese_Wikipedia_corpus/releases) (已提供针对中国用户的快速下载链接)
 
 ## 如何贡献代码
 
